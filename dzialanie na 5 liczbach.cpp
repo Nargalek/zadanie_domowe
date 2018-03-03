@@ -4,7 +4,7 @@
 #include <iostream>
 
 using namespace std;
-float a,b,c,d,e;
+float a,b,c,d;
 float tablica[5];
 int main(){
 	
