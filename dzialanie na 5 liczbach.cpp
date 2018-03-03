@@ -28,7 +28,6 @@ int main(){
 		}
 	}	
 	cout<<"\nNajwieksza liczba to: "<<b<<"\n";
-	c = tablica[0];
 	for (int i=0; i<5; i++){
 		d=0;
 		for (int j=0; j<5; j++)
