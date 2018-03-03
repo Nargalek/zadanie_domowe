@@ -2,7 +2,6 @@
 // Wykona³ Jakub Gadecki
 
 #include <iostream>
-#include <math.h>
 
 using namespace std;
 float a,b,c,d,e;
