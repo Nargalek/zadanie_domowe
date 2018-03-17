@@ -31,9 +31,7 @@ int main(){
 	for (int i=0; i<5; i++){
 		d=0;
 		for (int j=0; j<5; j++)
-		if (tablica[i] == tablica[j] ){
-			d = d+1;
-		}		
+		if (tablica[i] == tablica[j] ) d++;	
 	cout<<"\nIlosc wystepowania liczby nr "<<i+1<<" o wartosci "<<tablica[i]<<" to: "<<d;
 	}
 	
